@@ -1,5 +1,5 @@
 [submodule "draggable_list"]
-	path = draggable_list
+	path = draggable-list
 	url = git@github.com:martian17/draggable-list.git
 [submodule "htmlgen"]
 	path = htmlgen
